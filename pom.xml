@@ -18,12 +18,6 @@
         </dependency>
     </dependencies>
 
-    <parent>
-        <groupId>lu.uni.binfo.softwaretesting</groupId>
-        <artifactId>junitexercise</artifactId>
-        <version>0.1</version>
-    </parent>
-
     <groupId>lu.uni.binfo.softwaretesting</groupId>
     <artifactId>books</artifactId>
     <version>0.1</version>
