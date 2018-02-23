@@ -2,6 +2,12 @@
 
 ## TP1 : Junit Exercise
 
+# To complete: 
+
+* Name :
+* Student Id:
+* Email :
+
 ### Setting
 In this practical session, you will code a method to compute the cost of shopping basket and test it using JUnit.
 To do this, you will fill the cost method in the [BookShop](src/main/java/books/BookShop.java) class and test it.
